@@ -1,1 +1,1 @@
-# Clothing-Recognition-and-Segmentation-for-Automatic-Product-Suggestions
+# Automatic Product Suggestions for website or clothes shopping
